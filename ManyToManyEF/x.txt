@@ -1,0 +1,4 @@
+﻿   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at ManyToManyEF.Program.OpenAllFiles(String path) in C:\Users\Rokas\source\repos\ManyToManyEF\ManyToManyEF\Program.cs:line 88
+   at ManyToManyEF.Program.OpenAllDirectories(String path) in C:\Users\Rokas\source\repos\ManyToManyEF\ManyToManyEF\Program.cs:line 51
+   at ManyToManyEF.Program.Main(String[] args) in C:\Users\Rokas\source\repos\ManyToManyEF\ManyToManyEF\Program.cs:line 26
